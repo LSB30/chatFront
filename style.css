@@ -12,7 +12,7 @@
 }
 
 body {
-    background-image: url(images/background.jpg);
+    background-image: url(images/background.png);
     background-size: 35dvh;
     color: #f2f2f2;
 }
@@ -156,4 +156,10 @@ body {
     margin-bottom: 15px;
     font-weight: 700;
     color: cadetblue;
+}
+
+.activeUsersList {
+    width: 1000px;
+    height: 2000px;
+
 }

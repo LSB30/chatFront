@@ -7,6 +7,7 @@ const chatForm = document.querySelector(".chat__form");
 const chatInput = document.querySelector(".chat__input");
 const chatMessages = document.querySelector(".chat__messages");
 
+const activeUsersList = document.querySelector(".activeUsersList")
 
 const colors = [
     "cadetblue",
